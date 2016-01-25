@@ -8,5 +8,7 @@ To see how a list is created, I can use:
 * Asterix, i.e. a
 * Star character
 
-I'm left wondering how to create a numbered list.
+Ordered lists are simply created by writing out the numbers manually (unlike wikitext markup).
+1. The first item goes here.
+2. The second item goes here. Note that this GitHub editor automatically generated the next numbered item.
 
